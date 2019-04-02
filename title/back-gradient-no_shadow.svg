@@ -1,0 +1,7 @@
+<svg viewBox="0 0 1 30" xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="a" gradientTransform="matrix(.64791 0 0 .01 442.19 -556.61)" gradientUnits="userSpaceOnUse" x1="251.46" x2="205.45">
+        <stop offset="0" stop-color="#556068"/>
+        <stop offset="1" stop-color="#475057"/>
+    </linearGradient>
+    <path d="M575.12-554.72h30v1h-30z" fill="url(#a)" transform="rotate(90 10.7 -564.42)"/>
+</svg>
